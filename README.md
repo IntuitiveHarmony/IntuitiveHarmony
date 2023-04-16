@@ -1,14 +1,15 @@
 # Hello, my name is Jason
 
+<br/>
+
 ## 🎹 <kbd>+</kbd> 💻 
 
 Currently, my primary focus is on computer programming with the ultimate goal of creating software-based musical instruments that are accessible to individuals of all skill levels, including those who are new to music as well as experienced musicians. I am motivated to develop these tools in order to provide a intuitive and creative platform for people to explore and express their musical abilities.
 
-
+<br/>
 <hr/>
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark) 
+<br/>
+<br/>
 
 <!-- 
 ## 🛠️ 
@@ -42,7 +43,12 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
 <img title='VS Code' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img title='Heroku' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> <img title='Markdown' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> <img title='X Code' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> <img title='AWS' width='40em' src='https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png'> <img title='Apple' width='34em' src="https://cdn.freebiesupply.com/logos/large/2x/apple-1-logo-png-transparent.png" /> 
 <!-- <img width='40em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> -->
 
+<br/>
+<br/>
+<br/>
  
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark) 
 
 
 
