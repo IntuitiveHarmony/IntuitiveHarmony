@@ -11,6 +11,8 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
 
 Currently, my primary focus is on computer programming with the ultimate goal of creating software-based musical instruments that are accessible to individuals of all skill levels, including those who are new to music as well as experienced musicians. I am motivated to develop these tools in order to provide a intuitive and creative platform for people to explore and express their musical abilities.
 
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=ocean_dark)
 
 <!--
