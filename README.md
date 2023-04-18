@@ -1,4 +1,4 @@
-<img height='100em' width='100%' src='./images/neonStream2.png' />
+<img height='70em' width='100%' src='./images/neonStream.png' />
 
 <br/>
 
@@ -22,6 +22,7 @@ Currently, my primary focus is on computer programming with the ultimate goal of
 <hr/>
 <br/>
 <br/>
+
 
 <!-- 
 ## 🛠️ 
@@ -54,6 +55,10 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
 | - |
 <img title='VS Code' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img title='Heroku' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> <img title='Markdown' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> <img title='X Code' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> <img title='AWS' width='40em' src='https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png'> <img title='Apple' width='34em' src="https://cdn.freebiesupply.com/logos/large/2x/apple-1-logo-png-transparent.png" /> 
 <!-- <img width='40em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> -->
+
+| Production Tools | 
+| - |
+<img title='BeFunky' width='43em' src='https://store-images.s-microsoft.com/image/apps.4318.14279828532699200.dfba412e-29c8-45b2-84bc-062988aabbe2.feaa150b-7c40-4622-a94e-b72ab8d4d2e6?w=120' /> <img title='Ableton' width='50em' src='https://icon-library.com/images/ableton-icon/ableton-icon-17.jpg' /> <img title='Reaper' width='40em' src='https://millennialmind.co/wp-content/uploads/2019/05/reaper.png' /> <img title='MIDI' width='41em' src='https://cdn.icon-icons.com/icons2/2248/PNG/512/midi_port_icon_135398.png' />
 
 <br/>
 <br/>
