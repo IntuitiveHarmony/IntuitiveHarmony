@@ -5,10 +5,10 @@
 | <img width='100em' src='./images/nutAndBolt.png' /> | If I'm not taking something apart to understand how it works, I'm fixing something that I broke while taking it apart to understand how it worked.
 | - | :- |
 
-| <img width='100em' src='./images/books.png' /> | Curiosity, knowledge, growth and improvement are all motivators for me to keep expanding upon my various disciplines of study.
+| <img width='90em' src='./images/books.png' /> | Curiosity, knowledge, growth and improvement are all motivators for me to keep expanding upon my various disciplines of study.
 | - | :- |
 
-| <img width='160em' src='./images/artistPalette.png' /> | I continually draw upon my varied experiences from the music, management, HVAC, plumbing, culinary and coding worlds. I combine them with my explorations of philosophy and logic in order to enrich my life and the lives of others.
+| <img width='170em' src='./images/artistPalette.png' /> | I continually draw upon my varied experiences from the music, management, HVAC, plumbing, culinary and coding worlds. I combine them with my explorations of philosophy and logic in order to enrich my life and the lives of others.
 | - | :- |
  
 
