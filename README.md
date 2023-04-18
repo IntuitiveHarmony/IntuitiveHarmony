@@ -48,11 +48,11 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
 
 | Version Control and Collaboration | 
 | - |
-&nbsp; <img title='git' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp; <img title='Git Hub' width='40em' src="./images/githubPink.png" />  &nbsp; <img title='Slack' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> &nbsp; <img title='Trello' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+&nbsp; <img title='git' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp; <img title='Git Hub' width='40em' src="./images/githubPink.png" /> &nbsp; <img title='Markdown' width='53em' src="./images/markdown.png" />  &nbsp; <img title='Slack' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> &nbsp; <img title='Trello' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 | Development Tools | 
 | - |
-&nbsp; <img title='VS Code' width='38em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp; <img title='Heroku' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> &nbsp; <img title='Markdown' width='53em' src="./images/markdown.png" /> &nbsp; <img title='X Code' width='42em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> &nbsp; <img title='AWS' width='45em' src='https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png'> &nbsp; <img title='Apple' width='33em' src="https://cdn.freebiesupply.com/logos/large/2x/apple-1-logo-png-transparent.png" /> 
+&nbsp; <img title='VS Code' width='38em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp; <img title='Heroku' width='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /> &nbsp; <img title='X Code' width='42em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> &nbsp; <img title='AWS' width='45em' src='https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png'> &nbsp; <img title='Apple' width='33em' src="https://cdn.freebiesupply.com/logos/large/2x/apple-1-logo-png-transparent.png" /> 
 <!-- &nbsp; <img width='40em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> -->
 
 | A/V Production Tools | 
