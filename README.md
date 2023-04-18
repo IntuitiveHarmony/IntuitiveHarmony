@@ -1,6 +1,6 @@
 # Hello, my name is Jason
 
-<img height='100em' src='./images/neonStream.png' />
+<img height='100em' width='100%' src='./images/neonStream2.png' />
 
 <br/>
 <br/>
