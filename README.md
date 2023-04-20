@@ -67,7 +67,7 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
 <br/>
  
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark) 
+![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark&hide_rank=true) 
 
 
 
