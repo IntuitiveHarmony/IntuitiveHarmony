@@ -1,6 +1,7 @@
 <img height='70em' width='100%' src='./images/neonStream.png' />
 
-# Hello, my name is Jason
+# Hello world, my name is Jason
+
 
 | <img width='100em' src='./images/nutAndBolt.png' /> | If I'm not taking something apart to understand how it works, I'm fixing something that I broke while taking it apart to understand how it worked.
 | - | :- |
@@ -10,16 +11,20 @@
 
 | <img width='170em' src='./images/artistPalette.png' /> | I continually draw upon my varied experiences from the music, management, HVAC, plumbing, culinary and coding worlds. I combine them with my explorations of philosophy and logic in order to enrich my life and the lives of others.
 | - | :- |
+
+| <img width='70em' src='./images/speaker.png' /> | My current focus is learning C++ and the JUCE framework in order to build virtual instruments as VST plugins.  
+| - | :- |
  
 
 <br/>
 <br/>
+<br/>
 
-## 🎹 <kbd>+</kbd> 💻 
+<!-- ## 🎹 <kbd>+</kbd> 💻 
 Currently, my primary focus is on computer programming with the ultimate goal of creating software-based musical instruments that are accessible to individuals of all skill levels, including those who are new to music as well as experienced musicians. I am motivated to develop these tools in order to provide a intuitive and creative platform for people to explore and express their musical abilities.
 
 <hr/>
-<br/>
+<br/> -->
 
 
 
@@ -61,13 +66,13 @@ Curiosity, knowledge, growth and improvement are all motivators for me to keep e
  
  
 
-
+<!-- 
 <br/>
 <br/>
 <br/>
- 
+  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark) 
+<!-- ![Intuitive Harmony's GitHub stats](https://github-readme-stats.vercel.app/api?username=intuitiveharmony&show_icons=true&theme=aura_dark)  -->
 
 
 
