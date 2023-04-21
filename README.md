@@ -1,6 +1,6 @@
 <img height='70em' width='100%' src='./images/neonStream.png' />
 
-# Hello world, my name is Jason
+# Hello, my name is Jason
 
 
 | <img width='100em' src='./images/nutAndBolt.png' /> | If I'm not taking something apart to understand how it works, I'm fixing something that I broke while taking it apart to understand how it worked.
