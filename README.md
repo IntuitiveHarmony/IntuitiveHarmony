@@ -12,7 +12,7 @@
 | <img width='170em' src='./images/artistPalette.png' /> | I continually draw upon my varied experiences from the music, management, HVAC, plumbing, culinary and coding worlds. I combine them with my explorations of philosophy and logic in order to enrich my life and the lives of others.
 | - | :- |
 
-| <img width='80em' src='./images/speaker.png' /> | My current focus is learning C++ and the JUCE framework in order to build virtual instruments as VST plugins.  
+| <img width='80em' src='./images/speaker.png' /> | My current focus is learning C++ and microcontrollers in order to build MIDI based musical instruments and controllers.  
 | - | :- |
  
 
